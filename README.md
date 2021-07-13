@@ -123,6 +123,35 @@
     </div>
 
 
+
+<h2>Gruvbox</h2>
+
+  * <div>
+    <h3>Full Walls</h3>
+    <details>
+      <summary>See them all!</summary>
+      
+      <img src="https://github.com/FrenzyExists/wallpapers/blob/main/Gruv/grub-coffee.png" alt="Gruv Coffee" align="center" width="600px"/>
+      <br></br>
+            
+      <img src="https://github.com/FrenzyExists/wallpapers/blob/main/Gruv/gruv-4.jpg" alt="Gruv Forest" align="center" width="600px"/> 
+      <br></br>    
+  
+      <img src="https://github.com/FrenzyExists/wallpapers/blob/main/Gruv/gruv-temple.png" alt="Gruv Temple" align="center" width="600px"/>
+      <br></br>
+
+      <img src="https://github.com/FrenzyExists/wallpapers/blob/main/Gruv/gruv-simplistic-ngo.png" alt="Gruv Simple" align="center" width="600px"/>
+      <br></br>
+      
+      <img src="https://github.com/FrenzyExists/wallpapers/blob/main/Gruv/gruvbox_pixel.png" alt="gruv Pixelart" align="center" width="600px"/>
+      <br></br>
+      
+  </details>
+  </div>
+
+
+
+
 # Non-Colorscheme-Focused Walls
 
 <h2>Universal Walls</h2>
