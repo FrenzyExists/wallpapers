@@ -30,6 +30,12 @@
       <img src="https://github.com/FrenzyExists/wallpapers/blob/main/Aquarium/gen_1_starters_full.png" alt="Pokemon Gen 1" align="center" width="600px"/>
       <br></br>
       
+      <img src="https://github.com/FrenzyExists/wallpapers/blob/main/Aquarium/mega-charizard-rainbow-II.png" alt="Mega Charizard" align="center" width="600px"/>
+      <br></br>
+
+      <img src="https://github.com/FrenzyExists/wallpapers/blob/main/Aquarium/electric-pkm-quarium_II.png" alt="Electric Pokemon" align="center" width="600px"/>
+      <br></br>
+      
   </details>
   </div>
   
