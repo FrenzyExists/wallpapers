@@ -1,8 +1,18 @@
-# Wallpapers
-#### These are my curated wallpapers, It includes Nord, Gruvbox, and Aquarium. It also includes some non-colorscheme-focused walls. Some could actually look good on Nord, while others on Gruvbox despite not having the same hex colors (check the Universal folder for that). Also yeah I have a bunch of anime walls cuz we're all weebs so deal with it.
-
-#### If you find good walls around feel free to contribute and add em!
-##### D U I T
+<div align="center">
+    <h1>Wallpapers</h1>
+    <p>
+        Random Walls Frenzy totally did not steal. It includes:<br />
+        <b>Nord</b>, <b>Gruvbox</b>, <b>Aquarium</b>, <b>Lantern</b><br/> 
+        BONUS:<br/>
+        There's also <b>W E E E B</b> Walls 🎩<br/> 
+        Format: PNG, JPG, GIF
+    </p>
+    <br/>
+    <h4>
+       If you find good walls around feel free to contribute and add em!</br>
+       <b>D U I T</b>
+    </h4>
+</div>
 
 <br/>
 
