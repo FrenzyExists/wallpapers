@@ -193,4 +193,12 @@
   </details>
   </div>
 
+## Future Plans
 
+As this repo keeps getting bigger and bigger I'll probably just turn this into a database or something (when I figure out how databases work that is).
+
+### TO DO (Probably, or not)
+- Learn how databases work
+- Make a database in this repo, or something idfk
+- Build a simple install script because ReAsOnS
+- Throw myself from a clift, do a backflip land on an apache attack helicoper, marry the helicopter, drive the helicopter to Fortnite HQ and nuke Fortnite once and for all
