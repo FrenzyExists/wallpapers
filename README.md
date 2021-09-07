@@ -202,3 +202,8 @@ As this repo keeps getting bigger and bigger I'll probably just turn this into a
 - Make a database in this repo, or something idfk
 - Build a simple install script because ReAsOnS
 - Throw myself from a clift, do a backflip land on an apache attack helicoper, marry the helicopter, drive the helicopter to Fortnite HQ and nuke Fortnite once and for all
+
+# NOTE
+I'M NEW DOING MAKEFILES, I HAVE NO IDEA IF IT WILL WORK
+PLZ DON'T KILL ME 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
