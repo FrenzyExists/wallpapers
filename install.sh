@@ -18,7 +18,7 @@ Arguments
 
     -d | --dir /path/to/be/saved
     Example:
-    install.sh -class universal -dir \"$HOME/Pictures/wallpapres/\"
+    install.sh -class universal -dir \"$HOME/Pictures/wallpapers/\"
 
     To install all walls, simply:
     install.sh
